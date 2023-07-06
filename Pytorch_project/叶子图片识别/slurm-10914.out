@@ -1,0 +1,102 @@
+train data size:(16517, 3),test data size:(1836, 3)
+training on cuda
+epoch0,train loss5.456,train acc:0.009,        valid loss5.458valid acc:0.008
+Best model fodun at epoch 0,save model
+epoch1,train loss5.446,train acc:0.008,        valid loss5.410valid acc:0.012
+Best model fodun at epoch 1,save model
+epoch2,train loss5.429,train acc:0.008,        valid loss5.393valid acc:0.008
+Best model fodun at epoch 2,save model
+epoch3,train loss5.424,train acc:0.007,        valid loss5.393valid acc:0.011
+Best model fodun at epoch 3,save model
+epoch4,train loss5.415,train acc:0.009,        valid loss5.411valid acc:0.011
+Best model fodun at epoch 4,save model
+epoch5,train loss5.401,train acc:0.008,        valid loss5.379valid acc:0.007
+Best model fodun at epoch 5,save model
+epoch6,train loss5.394,train acc:0.008,        valid loss5.384valid acc:0.010
+Best model fodun at epoch 6,save model
+epoch7,train loss5.385,train acc:0.008,        valid loss5.382valid acc:0.009
+Best model fodun at epoch 7,save model
+epoch8,train loss5.376,train acc:0.008,        valid loss5.353valid acc:0.009
+Best model fodun at epoch 8,save model
+epoch9,train loss5.364,train acc:0.007,        valid loss5.348valid acc:0.012
+Best model fodun at epoch 9,save model
+epoch10,train loss5.355,train acc:0.008,        valid loss5.355valid acc:0.007
+Best model fodun at epoch 10,save model
+epoch11,train loss5.349,train acc:0.009,        valid loss5.319valid acc:0.010
+Best model fodun at epoch 11,save model
+epoch12,train loss5.341,train acc:0.009,        valid loss5.338valid acc:0.008
+Best model fodun at epoch 12,save model
+epoch13,train loss5.332,train acc:0.009,        valid loss5.333valid acc:0.009
+Best model fodun at epoch 13,save model
+epoch14,train loss5.327,train acc:0.009,        valid loss5.322valid acc:0.008
+Best model fodun at epoch 14,save model
+epoch15,train loss5.318,train acc:0.008,        valid loss5.286valid acc:0.009
+Best model fodun at epoch 15,save model
+epoch16,train loss5.311,train acc:0.009,        valid loss5.306valid acc:0.011
+Best model fodun at epoch 16,save model
+epoch17,train loss5.299,train acc:0.010,        valid loss5.308valid acc:0.008
+Best model fodun at epoch 17,save model
+epoch18,train loss5.292,train acc:0.008,        valid loss5.303valid acc:0.010
+Best model fodun at epoch 18,save model
+epoch19,train loss5.295,train acc:0.008,        valid loss5.280valid acc:0.015
+Best model fodun at epoch 19,save model
+epoch20,train loss5.285,train acc:0.010,        valid loss5.284valid acc:0.011
+Best model fodun at epoch 20,save model
+epoch21,train loss5.281,train acc:0.009,        valid loss5.275valid acc:0.013
+Best model fodun at epoch 21,save model
+epoch22,train loss5.274,train acc:0.009,        valid loss5.272valid acc:0.009
+Best model fodun at epoch 22,save model
+epoch23,train loss5.267,train acc:0.010,        valid loss5.290valid acc:0.012
+Best model fodun at epoch 23,save model
+epoch24,train loss5.262,train acc:0.010,        valid loss5.247valid acc:0.011
+Best model fodun at epoch 24,save model
+epoch25,train loss5.257,train acc:0.009,        valid loss5.268valid acc:0.011
+Best model fodun at epoch 25,save model
+epoch26,train loss5.253,train acc:0.010,        valid loss5.263valid acc:0.009
+Best model fodun at epoch 26,save model
+epoch27,train loss5.245,train acc:0.011,        valid loss5.248valid acc:0.015
+Best model fodun at epoch 27,save model
+epoch28,train loss5.241,train acc:0.010,        valid loss5.245valid acc:0.011
+Best model fodun at epoch 28,save model
+epoch29,train loss5.240,train acc:0.011,        valid loss5.236valid acc:0.013
+Best model fodun at epoch 29,save model
+epoch30,train loss5.236,train acc:0.011,        valid loss5.249valid acc:0.014
+Best model fodun at epoch 30,save model
+epoch31,train loss5.229,train acc:0.010,        valid loss5.233valid acc:0.012
+Best model fodun at epoch 31,save model
+epoch32,train loss5.221,train acc:0.010,        valid loss5.221valid acc:0.015
+Best model fodun at epoch 32,save model
+epoch33,train loss5.222,train acc:0.011,        valid loss5.209valid acc:0.015
+Best model fodun at epoch 33,save model
+epoch34,train loss5.209,train acc:0.012,        valid loss5.239valid acc:0.008
+Best model fodun at epoch 34,save model
+epoch35,train loss5.211,train acc:0.011,        valid loss5.226valid acc:0.010
+Best model fodun at epoch 35,save model
+epoch36,train loss5.202,train acc:0.012,        valid loss5.206valid acc:0.012
+Best model fodun at epoch 36,save model
+epoch37,train loss5.198,train acc:0.013,        valid loss5.209valid acc:0.016
+Best model fodun at epoch 37,save model
+epoch38,train loss5.199,train acc:0.013,        valid loss5.210valid acc:0.011
+Best model fodun at epoch 38,save model
+epoch39,train loss5.195,train acc:0.012,        valid loss5.186valid acc:0.011
+Best model fodun at epoch 39,save model
+epoch40,train loss5.188,train acc:0.013,        valid loss5.221valid acc:0.012
+Best model fodun at epoch 40,save model
+epoch41,train loss5.184,train acc:0.014,        valid loss5.207valid acc:0.008
+Best model fodun at epoch 41,save model
+epoch42,train loss5.176,train acc:0.015,        valid loss5.207valid acc:0.010
+Best model fodun at epoch 42,save model
+epoch43,train loss5.176,train acc:0.015,        valid loss5.183valid acc:0.016
+Best model fodun at epoch 43,save model
+epoch44,train loss5.174,train acc:0.014,        valid loss5.212valid acc:0.009
+Best model fodun at epoch 44,save model
+epoch45,train loss5.173,train acc:0.013,        valid loss5.188valid acc:0.018
+Best model fodun at epoch 45,save model
+epoch46,train loss5.166,train acc:0.016,        valid loss5.183valid acc:0.017
+Best model fodun at epoch 46,save model
+epoch47,train loss5.162,train acc:0.017,        valid loss5.188valid acc:0.010
+Best model fodun at epoch 47,save model
+epoch48,train loss5.161,train acc:0.017,        valid loss5.171valid acc:0.016
+Best model fodun at epoch 48,save model
+epoch49,train loss5.161,train acc:0.015,        valid loss5.170valid acc:0.014
+Best model fodun at epoch 49,save model
